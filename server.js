@@ -14,7 +14,7 @@ connectDB();
 //Template engine
 app.set('views',path.join(__dirname,'/views'));
 app.set('view engine','ejs');
-app.use('/files',require('./routes/show.js'));
+app.use('/files',require('./routes/show'));
 
 //Routes 
 app.use('/api/files',require('./routes/files'));
