@@ -5,8 +5,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "nodemon server.js",
-    "serve": "node server.js",
-    "postinstall": "ng build"
+    "serve": "node server.js"
   },
   "dependencies": {
     "dotenv": "^16.0.1",
