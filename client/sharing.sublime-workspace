@@ -1,0 +1,371 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"whi",
+				"white"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"L",
+				"Line"
+			],
+			[
+				"fetch",
+				"fetchAPI"
+			],
+			[
+				"gr",
+				"grey"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"--",
+				"--main-bg-color"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"tra",
+				"transform-origin"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"transla",
+				"translateX()"
+			],
+			[
+				"tar",
+				"transform-origin"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"nav",
+				"nav-menu"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install package control",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"In",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 172.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/File sharing project/sharing.html",
+		"/C/Users/Quality/my/public/index.html",
+		"/C/Users/Quality/my/src/App.css",
+		"/C/Users/Quality/my/src/App.js",
+		"/C/Users/Quality/my/src/index.js",
+		"/C/Users/Quality/react-project/src/components/Chart/Chart.jsx",
+		"/C/Users/Quality/react-project/src/api/index.js",
+		"/C/Users/Quality/react-project/src/components/Cards/Cards.jsx",
+		"/C/Users/Quality/react-project/src/components/CountryPicker/CountryPicker.module.css",
+		"/C/Users/Quality/react-project/src/components/Chart/Chart.module.css",
+		"/C/Users/Quality/react-project/src/components/Cards/Cards.module.css",
+		"/C/Users/Quality/react-project/src/App.module.css",
+		"/C/Users/Quality/react-project/src/App.js",
+		"/C/Users/Quality/AppData/Roaming/Sublime Text/Packages/User/untitled.sublime-build",
+		"/C/Users/Quality/react-project/public/index.html",
+		"/C/Users/Quality/react-project/src/index.js",
+		"/C/Users/Quality/react-project/src/components/CountryPicker/CountryPicker.jsx",
+		"/C/Users/Quality/react-project/src/components/Cards/Cards.modules.css",
+		"/C/Users/Quality/react-project/src/components/Chart/Chart.modules.css",
+		"/C/Users/Quality/react-project/src/components/CountryPicker/CountryPicker.modules.css",
+		"/C/Users/Quality/my-app/src/index.js",
+		"/C/Users/Quality/my-app/src/component/Header/Header.jsx",
+		"/C/Users/Quality/my-app/src/component/Lists/Lists.jsx",
+		"/C/Users/Quality/my-app/src/component/Map/Map.jsx",
+		"/C/Users/Quality/my-app/src/component/Map/styles.js",
+		"/C/Users/Quality/my-app/src/component/Placedetails/Placedetails.jsx",
+		"/C/Users/Quality/my-app/src/App.js",
+		"/C/Users/Quality/my-app/src/component/Header/styles.js",
+		"/C/Users/Quality/my-app/src/component/Placedetails/styles.js",
+		"/C/Users/Quality/my-app/src/component/Lists/styles.js",
+		"/C/Users/Quality/my-app/src/component/Place details/Place details.jsx",
+		"/C/Users/Quality/my-app/public/index.html",
+		"/C/Users/Quality/my-app/src/component/Header/Header.js",
+		"/C/Users/Quality/my-app/src/component/Lists/Lists.js",
+		"/C/Users/Quality/my-app/src/component/Map/Map.js",
+		"/C/Users/Quality/my-app/src/component/Place details/Place details.js",
+		"/C/Users/Quality/my-app/src/component/Header",
+		"/C/Users/Quality/my-app/src/component/List",
+		"/C/Users/Quality/my-app/src/component/Map",
+		"/C/Users/Quality/my-app/src/component/Place details",
+		"/C/Users/Quality/my-app/src/App",
+		"/C/Users/Quality/my-app/public/App.js",
+		"/C/Users/Quality/my-app/src/package.json",
+		"/C/Users/Quality/my-app/.gitignore",
+		"/C/Users/Quality/my-app/package.json",
+		"/E/File sharing project/sharing.css",
+		"/E/File sharing project/sharing.js",
+		"/E/File sharing project/file.png.png",
+		"/C/Users/Quality/AppData/Roaming/Sublime Text/Packages/User/npm.sublime-settings",
+		"/E/HTMLCSS/portfolio.html",
+		"/E/HTMLCSS/portfolio.css",
+		"/E/HTMLCSS/portfolio.javascript.css",
+		"/E/HTMLCSS/style.css",
+		"/E/HTMLCSS/index.html",
+		"/E/HTMLCSS/script.js",
+		"/C/Users/Quality/Desktop/tictactoe/tictactoe.html",
+		"/C/Users/Quality/Desktop/tictactoe/tictactoe.css",
+		"/C/Users/Quality/Desktop/tictactoe/tictactoe.js",
+		"/C/Users/Quality/Desktop/style.css-digital-clock.css",
+		"/C/Users/Quality/Desktop/script.js-digital-clock.js",
+		"/C/Program Files/Sublime Text/project1",
+		"/C/Users/Quality/Desktop/amrit.html",
+		"/C/Users/Quality/Desktop/amrit 2",
+		"/C/Users/Quality/Desktop/index.html",
+		"/D/index.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sharing.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
